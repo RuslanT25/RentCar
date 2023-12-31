@@ -44,10 +44,6 @@ D:\RentCar\RentCar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.
 D:\RentCar\RentCar\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\RentCar\RentCar\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\RentCar\RentCar\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\RentCar\RentCar\bin\Debug\net6.0-windows\Data.dll
-D:\RentCar\RentCar\bin\Debug\net6.0-windows\Repository.dll
-D:\RentCar\RentCar\bin\Debug\net6.0-windows\Data.pdb
-D:\RentCar\RentCar\bin\Debug\net6.0-windows\Repository.pdb
 D:\RentCar\RentCar\obj\Debug\net6.0-windows\RentCar.Properties.Resources.resources
 D:\RentCar\RentCar\obj\Debug\net6.0-windows\RentCar.GeneratedMSBuildEditorConfig.editorconfig
 D:\RentCar\RentCar\obj\Debug\net6.0-windows\RentCar.AssemblyInfoInputs.cache
@@ -74,3 +70,7 @@ D:\RentCar\RentCar\bin\Debug\net6.0-windows\Autofac.dll
 D:\RentCar\RentCar\bin\Debug\net6.0-windows\Autofac.Extensions.DependencyInjection.dll
 D:\RentCar\RentCar\obj\Debug\net6.0-windows\RentCar.Views.User_Controls.Uc_CarPhoto.resources
 D:\RentCar\RentCar\obj\Debug\net6.0-windows\RentCar.Views.Forms.Frm_Return.resources
+D:\RentCar\RentCar\bin\Debug\net6.0-windows\Data-Layer.dll
+D:\RentCar\RentCar\bin\Debug\net6.0-windows\Repository-layer.dll
+D:\RentCar\RentCar\bin\Debug\net6.0-windows\Data-Layer.pdb
+D:\RentCar\RentCar\bin\Debug\net6.0-windows\Repository-layer.pdb

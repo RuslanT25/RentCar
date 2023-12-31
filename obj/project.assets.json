@@ -875,7 +875,7 @@
           }
         }
       },
-      "Data/1.0.0": {
+      "Data-layer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -886,27 +886,27 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
         },
         "compile": {
-          "bin/placeholder/Data.dll": {}
+          "bin/placeholder/Data-layer.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Data.dll": {}
+          "bin/placeholder/Data-layer.dll": {}
         }
       },
-      "Repository/1.0.0": {
+      "Repository-layer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Autofac": "7.1.0",
           "Autofac.Extensions.DependencyInjection": "8.0.0",
-          "Data": "1.0.0",
+          "Data-layer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.25",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25"
         },
         "compile": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/Repository-layer.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/Repository-layer.dll": {}
         }
       }
     }
@@ -2246,24 +2246,24 @@
         "version.txt"
       ]
     },
-    "Data/1.0.0": {
+    "Data-layer/1.0.0": {
       "type": "project",
-      "path": "../Data/Data.csproj",
-      "msbuildProject": "../Data/Data.csproj"
+      "path": "../Data/Data-layer.csproj",
+      "msbuildProject": "../Data/Data-layer.csproj"
     },
-    "Repository/1.0.0": {
+    "Repository-layer/1.0.0": {
       "type": "project",
-      "path": "../Repository/Repository.csproj",
-      "msbuildProject": "../Repository/Repository.csproj"
+      "path": "../Repository/Repository-layer.csproj",
+      "msbuildProject": "../Repository/Repository-layer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Data >= 1.0.0",
+      "Data-layer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.25",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.25",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.25",
-      "Repository >= 1.0.0"
+      "Repository-layer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2293,11 +2293,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\RentCar\\Data\\Data.csproj": {
-              "projectPath": "D:\\RentCar\\Data\\Data.csproj"
+            "D:\\RentCar\\Data\\Data-layer.csproj": {
+              "projectPath": "D:\\RentCar\\Data\\Data-layer.csproj"
             },
-            "D:\\RentCar\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\RentCar\\Repository\\Repository.csproj"
+            "D:\\RentCar\\Repository\\Repository-layer.csproj": {
+              "projectPath": "D:\\RentCar\\Repository\\Repository-layer.csproj"
             }
           }
         }

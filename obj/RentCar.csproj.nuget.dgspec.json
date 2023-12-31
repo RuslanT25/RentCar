@@ -4,12 +4,12 @@
     "D:\\RentCar\\RentCar\\RentCar.csproj": {}
   },
   "projects": {
-    "D:\\RentCar\\Data\\Data.csproj": {
+    "D:\\RentCar\\Data\\Data-layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RentCar\\Data\\Data.csproj",
-        "projectName": "Data",
-        "projectPath": "D:\\RentCar\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\RentCar\\Data\\Data-layer.csproj",
+        "projectName": "Data-layer",
+        "projectPath": "D:\\RentCar\\Data\\Data-layer.csproj",
         "packagesPath": "C:\\Users\\r\\.nuget\\packages\\",
         "outputPath": "D:\\RentCar\\Data\\obj\\",
         "projectStyle": "PackageReference",
@@ -111,11 +111,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\RentCar\\Data\\Data.csproj": {
-                "projectPath": "D:\\RentCar\\Data\\Data.csproj"
+              "D:\\RentCar\\Data\\Data-layer.csproj": {
+                "projectPath": "D:\\RentCar\\Data\\Data-layer.csproj"
               },
-              "D:\\RentCar\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\RentCar\\Repository\\Repository.csproj"
+              "D:\\RentCar\\Repository\\Repository-layer.csproj": {
+                "projectPath": "D:\\RentCar\\Repository\\Repository-layer.csproj"
               }
             }
           }
@@ -168,12 +168,12 @@
         }
       }
     },
-    "D:\\RentCar\\Repository\\Repository.csproj": {
+    "D:\\RentCar\\Repository\\Repository-layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RentCar\\Repository\\Repository.csproj",
-        "projectName": "Repository",
-        "projectPath": "D:\\RentCar\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\RentCar\\Repository\\Repository-layer.csproj",
+        "projectName": "Repository-layer",
+        "projectPath": "D:\\RentCar\\Repository\\Repository-layer.csproj",
         "packagesPath": "C:\\Users\\r\\.nuget\\packages\\",
         "outputPath": "D:\\RentCar\\Repository\\obj\\",
         "projectStyle": "PackageReference",
@@ -192,8 +192,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\RentCar\\Data\\Data.csproj": {
-                "projectPath": "D:\\RentCar\\Data\\Data.csproj"
+              "D:\\RentCar\\Data\\Data-layer.csproj": {
+                "projectPath": "D:\\RentCar\\Data\\Data-layer.csproj"
               }
             }
           }
