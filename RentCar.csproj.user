@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\Forms\Frm_Return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_CarAdd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_CarGetDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_CarPhoto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_Category.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\Frm_Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_ExtraAdd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_ExtraGet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_RentCar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_Transmission.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_CarsGet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_AdminPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\User Controls\Uc_User.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
