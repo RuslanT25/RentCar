@@ -1,0 +1,17 @@
+D:\RentCar\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\RentCar\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\RentCar\Repository\bin\Debug\net6.0\Repository.dll
+D:\RentCar\Repository\bin\Debug\net6.0\Repository.pdb
+D:\RentCar\Repository\bin\Debug\net6.0\Data.dll
+D:\RentCar\Repository\bin\Debug\net6.0\Data.pdb
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.dll
+D:\RentCar\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.pdb
+D:\RentCar\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\RentCar\Repository\obj\Debug\net6.0\ref\Repository.dll

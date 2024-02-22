@@ -1,0 +1,14 @@
+D:\RentCar\Data\bin\Debug\net6.0\Data-Layer.deps.json
+D:\RentCar\Data\bin\Debug\net6.0\Data-Layer.runtimeconfig.json
+D:\RentCar\Data\bin\Debug\net6.0\Data-Layer.dll
+D:\RentCar\Data\bin\Debug\net6.0\Data-Layer.pdb
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.csproj.AssemblyReference.cache
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.AssemblyInfoInputs.cache
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.AssemblyInfo.cs
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.csproj.CoreCompileInputs.cache
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.dll
+D:\RentCar\Data\obj\Debug\net6.0\refint\Data-Layer.dll
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.pdb
+D:\RentCar\Data\obj\Debug\net6.0\Data-Layer.genruntimeconfig.cache
+D:\RentCar\Data\obj\Debug\net6.0\ref\Data-Layer.dll
