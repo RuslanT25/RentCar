@@ -126,7 +126,7 @@ namespace RentCar.Views.User_Controls
                 car.Price = double.Parse(txtPrice.Text);
                 car.CarStatus = (cbStatus.SelectedItem.ToString() == "İcarə edilib.");
                 string fileName = Path.GetFileName(pictureBox1.ImageLocation);
-                car.Image = Path.Combine(@"C:\Users\r\Downloads\", fileName);
+                car.Image = Path.Combine(@"D:\RentCar\RentCar\Uploads\cars", fileName);
                 _carRepo.Add(car);
                 LoadData();
             }
